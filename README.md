@@ -7,3 +7,4 @@ This is a portfolio that holds the teaching resources I've made for the UCSD cou
 | 2    | Loops Program          | https://youtu.be/mzNHq3RY6dU |
 | 3    | Nested Repeats Program | https://youtu.be/B09VD6y9SrE |
 | 3    | Events Program         | https://youtu.be/YdlATr6vV_w |
+| 4    | Variables Program      | https://youtu.be/58nr1BE71TI |
