@@ -9,3 +9,4 @@ This is a portfolio that holds the teaching resources I've made for the UCSD cou
 | 3    | Events Program            | https://youtu.be/YdlATr6vV_w |
 | 4    | Variables Program         | https://youtu.be/58nr1BE71TI |
 | 5    | Conditional Loops Program | https://youtu.be/_WZ6vF9-Src |
+| 6    | If Statements Program     | https://youtu.be/7CwTVax5mU8 |
