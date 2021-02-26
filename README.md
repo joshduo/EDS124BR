@@ -11,3 +11,4 @@ This is a portfolio that holds the teaching resources I've made for the UCSD cou
 | 5    | Conditional Loops Program            | https://youtu.be/_WZ6vF9-Src |
 | 6    | If Statements Program                | https://youtu.be/7CwTVax5mU8 |
 | 7    | Nested If Else Statements Program    | https://youtu.be/60rr6j49OlM |
+| 8    | Compound Conditionals Program        | https://youtu.be/6Fak-N2sO6M |
