@@ -13,3 +13,4 @@ This is a portfolio that holds the teaching resources I've made for the UCSD cou
 | 7    | Nested If Else Statements Program    | https://youtu.be/60rr6j49OlM |
 | 8    | Compound Conditionals Program        | https://youtu.be/6Fak-N2sO6M |
 | 9    | Abstraction Program                  | https://youtu.be/XPcPzwGsN8k |
+| 10   | Lists Program                        | https://youtu.be/T_htjXO_dcw |
